@@ -21,7 +21,7 @@ A sophisticated AI chat application with real-time streaming, image generation, 
 - **Testing:** Jest for unit tests, Playwright for E2E tests, React Testing Library for component testing
 
 
-### ZarzCLI (https://github.com/zarzet/ZarzCLI) – Terminal-Native AI Coding Copilot                                                                                                                                                  
+### [ZarzCLI](https://github.com/zarzet/ZarzCLI) – Terminal-Native AI Coding Copilot                                                                                                                                                  
 Rust-first assistant that streams Claude, GPT-5 (via Codex OAuth), and GLM reasoning into an autonomous REPL with contextual file awareness and builtin tooling.
 
 - **Features**: Multi-provider completion pipeline with reasoning-effort presets, streaming hooks, and tool-calls; REPL slash-commands (/apply, /context, /model, /mcp, /resume) with hinting, diff views, and conversation metadata; builtin read_file/list_dir/grep_files/apply_patch tools plus PTY-backed exec_command/write_stdin sessions so the model can inspect and edit the workspace; keyword+AST-based context builder that preloads relevant files; ChatGPT OAuth PKCE flow with token exchange/refresh; persistent session snapshots plus MCP server orchestration; npm installer that fetches platform-specific binaries and surfaces update banners.                                                      
