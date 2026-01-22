@@ -33,7 +33,7 @@
   <br>
 
   <h3>Arsenal & Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,python,cpp,go,svelte,supabase,gcp,git,linux,androidstudio&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,next,cpp,go,supabase,gcp,git,linux,androidstudio,kotlin,swift&theme=dark&perline=12" />
 
   <br><br>
 
