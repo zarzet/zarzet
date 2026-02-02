@@ -14,7 +14,7 @@
   <br>
 
   <a href="https://github.com/zarzet/SpotiFLAC-Mobile">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zarzet&repo=SpotiFLAC-Mobile&theme=tokyonight&hide_border=true&icon_color=38BDF8" />
+    <img width="48%" src="https://socialify.git.ci/zarzet/SpotiFLAC-Mobile/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="SpotiFLAC-Mobile" />
   </a>
 
   <br><br>
@@ -22,10 +22,7 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zarzet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td valign="top">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarzet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+        <img height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=zarzet&theme=tokyonight&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
