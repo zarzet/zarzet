@@ -45,7 +45,7 @@
   <a href="https://github.com/zarzet?tab=repositories">
     <img src="https://img.shields.io/badge/Browse%20My-Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black">
   </a>
-  <a href="mailto:eleuthers@proton.me">
+  <a href="mailto:zarzeu@proton.me">
     <img src="https://img.shields.io/badge/Email-Me-gray?style=for-the-badge&logo=gmail">
   </a>
 
